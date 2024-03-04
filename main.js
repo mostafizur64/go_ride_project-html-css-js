@@ -87,3 +87,6 @@ ScrollReveal().reveal(".faq__accordion__col", {
   origin:"bottom",
   interval: 1500,
 });
+
+
+

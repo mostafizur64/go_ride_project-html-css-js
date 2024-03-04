@@ -139,6 +139,7 @@ nav {
   max-width: 719px;
   color: var(--white);
   text-align: center;
+  margin-top: 3rem;
 }
 .header__content h1 {
   margin-bottom: 1rem;
@@ -370,9 +371,11 @@ a {
   }
   .header__content {
     text-align: start;
+    margin-top: 2.785rem;
   }
   .header__content h1 {
     font-size: 65px;
+  
   }
   .section__container h4::after {
     position: absolute;
