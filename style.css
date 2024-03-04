@@ -406,9 +406,9 @@ a {
     cursor: pointer;
     color: var(--text-light);
   }
-  /* .footer__grid {
+  .footer__grid {
     display: flex;
     align-items: center;
     justify-content: space-between;
-  } */
+  }
 }
